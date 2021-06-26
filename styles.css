@@ -90,7 +90,7 @@ header ul li a:hover {
 /* jumbotron */
 #jumbotron {
   background-color: #3c3c52;
-  background-image: url(picture1.jpg);
+  background-image: url(images/picture1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -216,23 +216,23 @@ header ul li a:hover {
 }
 
 #about > div > ul > li:nth-child(1) a {
-  background-image: url(social/F.png);
+  background-image: url(images/social/F.png);
 }
 
 #about > div > ul > li:nth-child(2) a {
-  background-image: url(social/L.png);
+  background-image: url(images/social/L.png);
 }
 
 #about > div > ul > li:nth-child(3) a {
-  background-image: url(social/g.png);
+  background-image: url(images/social/g.png);
 }
 
 #about > div > ul > li:nth-child(4) a {
-  background-image: url(social/Drub.png);
+  background-image: url(images/social/Drub.png);
 }
 
 #about > div > ul > li:nth-child(5) a {
-  background-image: url(social/behar.png);
+  background-image: url(images/social/behar.png);
 }
 
 #about > div > ul > li a:hover {
@@ -371,13 +371,13 @@ header ul li a:hover {
 }
 
 .socials-links ul li:nth-child(1) a {
-  background-image: url(social/L.png);
+  background-image: url(images/social/L.png);
 }
 .socials-links ul li:nth-child(2) a {
-  background-image: url(social/F.png);
+  background-image: url(images/social/F.png);
 }
 .socials-links ul li:nth-child(3) a {
-  background-image: url(social/Iinkid.png);
+  background-image: url(images/social/Iinkid.png);
 }
 
 /* work */
@@ -428,7 +428,7 @@ header ul li a:hover {
   width: 20px;
   height: 20px;
   margin: 92px auto 0px auto;
-  background-image: url(icon/glyphicons_432_plus.png);
+  background-image: url(images/icon/glyphicons_432_plus.png);
   background-repeat: no-repeat;
   background-position: center center;
   text-indent: -100000px;
@@ -489,19 +489,19 @@ header ul li a:hover {
 }
 
 #do > div:nth-child(4n + 1) {
-  background-image: url(services/1.png);
+  background-image: url(images/services/1.png);
 }
 
 #do > div:nth-child(4n + 2) {
-  background-image: url(services/2.png);
+  background-image: url(images/services/2.png);
 }
 
 #do > div:nth-child(4n + 3) {
-  background-image: url(services/3.png);
+  background-image: url(images/services/3.png);
 }
 
 #do > div:nth-child(4n + 4) {
-  background-image: url(services/4.png);
+  background-image: url(images/services/4.png);
 }
 
 #do div p {
@@ -687,23 +687,23 @@ footer > .container ul li a {
 }
 
 footer > .container ul li:first-child a {
-  background-image: url(./social/twitter.png);
+  background-image: url(images/social/twitter.png);
 }
 
 footer > .container ul li:nth-child(2) a {
-  background-image: url(./social/fb.png);
+  background-image: url(images/social/fb.png);
 }
 
 footer > .container ul li:nth-child(3) a {
-  background-image: url(./social/skype.png);
+  background-image: url(images/social/skype.png);
 }
 
 footer > .container ul li:nth-child(4) a {
-  background-image: url(./social/behar.png);
+  background-image: url(images/social/behar.png);
 }
 
 footer > .container ul li:nth-child(5) a {
-  background-image: url(./social/Iinkid.png);
+  background-image: url(images/social/Iinkid.png);
 }
 
 /* responsive :chỉnh lại giao diện phù hợp với màn hình */
