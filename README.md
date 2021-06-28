@@ -1,5 +1,5 @@
-Muncak Landing Page
+Modest Landing Page
 
-作成中です。
+HTMLとCSSを使ってWebサイトのホームページを作ってみました。
 
 ビュー : https://mtp0881.github.io/muncak-website/
